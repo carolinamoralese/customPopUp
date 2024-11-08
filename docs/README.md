@@ -33,7 +33,7 @@ Este componente acepta las siguientes propiedades
 
 ## Usage
 
-descripcion de como se usa
+descripcion de como se usa puueba
 
 ```json
 "popup-offers":{
