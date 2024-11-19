@@ -7,7 +7,7 @@
   "dependencies": {
     "apollo-client": "^2.6.8",
     "react": "^16.12.0",
-    "react-apollo": "^3.1.3",
+    "react-apollo": "^3.1.5",
     "react-dom": "^16.12.0",
     "react-intl": "^3.12.0"
   },
@@ -19,7 +19,11 @@
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
-    "typescript": "3.9.7"
+    "itgloberspartnercl.popup-custom": "https://carolinadev--itgloberspartnercl.myvtex.com/_v/private/typings/linked/v1/itgloberspartnercl.popup-custom@0.0.1+build1732049315/public/@types/itgloberspartnercl.popup-custom",
+    "typescript": "3.9.7",
+    "vtex.css-handles": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles",
+    "vtex.product-context": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.1/public/@types/vtex.product-context",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.11/public/@types/vtex.render-runtime"
   },
   "resolutions": {
     "@types/jest": "26.0.15"
