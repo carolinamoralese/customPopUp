@@ -1,5 +1,8 @@
 {
-    "popup-offers": {
-        "component": "popUpOffers"
-    }
+  "popup-offers": {
+    "component": "popUpOffers"
+  },
+  "custom-query": {
+    "component": "CustomQuery"
+  }
 }
