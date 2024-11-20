@@ -1,3 +1,3 @@
-import PopUpOfferts from "./components/popUpOffers";
+import PopUpOfferts from './components/popup-custom/PopUpOffers'
 
 export default PopUpOfferts

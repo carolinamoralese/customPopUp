@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useCssHandles } from 'vtex.css-handles'
 import PropTypes from 'prop-types'
 import { useProduct } from 'vtex.product-context'
-import '../styles.css'
+import '../../styles.css'
 
 interface SkuList {
   skudId: number
